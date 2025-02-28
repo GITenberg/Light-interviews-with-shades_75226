@@ -1,5 +1,8 @@
 _repo: Light-interviews-with-shades_75226
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75226-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Robert Webster
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57891'
     url: http://www.gutenberg.org/2009/agents/57891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75226#Light-interviews-with-shades
 gutenberg_issued: '2025-01-27'
 gutenberg_type: Text
 identifiers:
